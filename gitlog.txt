@@ -1,0 +1,14 @@
+288fc8e Merge pull request #1 from skolten27/feature-skolten27
+e091c37 Edited file1.txt to say hi
+f155baf fixed merge conflict in new_features.txt
+708fd5b changing text for new_features.txt
+387bfe0 adding new text to new_features.txt
+96fdda3 Merge branch 'features' merging the features branch
+5c6a57e add line to file1.txt
+ce6a2a1 add text to features.txt
+3c9e228 add empty file
+18e9053 create readme file
+3d40d8b added text to file_2.txt
+9c4edf1 added a line to file1.txt
+02106c4 add file_2.txt
+82394a3 Add file1.txt

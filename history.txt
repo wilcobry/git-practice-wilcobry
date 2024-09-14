@@ -1,0 +1,212 @@
+   51  git version
+   52  git version
+   53  git init
+   54  git add .
+   62  git.clone https://github.com/nsandholtz/xc_research.git
+   63  git clone https://github.com/nsandholtz/xc_research.git
+   64  git clone https://github.com/nsandholtz/xc_research.git
+   65  git clone https://github.com/nsandholtz/xc_research.git
+   66  git clone https://github.com/nsandholtz/xc_research.git
+   71  git --version
+   72  git config -l
+   73  git config --global credential.helper osxkeychain
+   95  git init
+   96  git add .
+   97  git commit -m "initial commit"
+   98  git config --global user.email "wilcobry@gmail.com\ngit config --global user.name wilcobry\n\n.\n"
+   99  git config --global user.email wilcobry@gmail.com
+  100  git config --global user.name wilcobry
+  101  git init
+  102  git add .
+  103  git commit -m "initial commit"
+  104  git remote add origin https://github.com/nsandholtz/xc_research.git
+  105  git push -u origin main
+  106  git remote add origin https://github.com/nsandholtz/xc_research.git
+  107  git push -u origin main
+  108  git checkout -b main
+  109  git push -u origin main
+  110  git push -u origin main
+  112  git commit
+  113  git add .
+  114  git commit
+  115  git push
+  116  git push --set-upstream origin main
+  117  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
+  118  git push --set-upstream origin main
+  119  git push --set-upstream origin main
+  120  git -version
+  121  git --version
+  122  git install
+  123  brew install git
+  124  git version <latest version>
+  125  git push
+  126  git push -u origin main
+  127  git push -u origin main
+  128  git push -u origin main
+  129  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
+  130  git push -u origin main
+  131  git push -u origin main
+  134  rm .git
+  135  git --version
+  136  git config --global
+  137  $ echo url=https://wilcobry@github.com | git credential reject
+  138   echo url=https://wilcobry@github.com | git credential reject
+  139  git push -u origin main
+  140  git pull
+  141  git push -u origin main
+  146  git clone https://github.com/nsandholtz/xc_research.git
+  147  git pull
+  148  git pull main
+  149  git remote add origin https://github.com/nsandholtz/xc_research.git
+  150  git pull
+  151  git pull origin main
+  152  git prune
+  153  git pull origin main
+  159  git commit -a -m "hello world"
+  160  git add abc.txt
+  161  git commit -a -m "hello world"
+  162  git push
+  166  git pull
+  168  git pull --rebase
+  169  git status
+  170  git push
+  171  git remote add origin https://github.com/nsandholtz/xc_research/tree/main
+  172  git push -u origin main
+  173  git branch -M main
+  174  git push -u origin main
+  175  git pull -u origin main
+  176  git pull --all
+  177  git pull --all origin main
+  178  git pull origin main
+  179  git status
+  180  git inti
+  181  git init
+  185  git init
+  186  git pull origin main
+  187  git pull origin main
+  190  git status
+  191  git pull
+  194  git clone github.com/nsandholtz/xc_research
+  195  git clone https://github.com/nsandholtz/xc_research
+  197  git status
+  198  git add .
+  199  git status
+  200  git commit -m "Add audit file 3"
+  201  git push
+  341  git --version
+  342  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  343  $ brew install git
+  344  brew install git
+  345  sudo port install git
+  346  sudo port install git
+  349  brew install git
+  350  brew link git
+  351  brew link --overwrite git --dry-run
+  352  brew link --overwrite git
+  353  git --version
+  354  git config --gobal user.name "Brylee Wilcox"
+  355  git config --global user.name "Brylee Wilcox"
+  356  git config --global user.name "wilcobry'\n"
+  357  git config --global user.name "wilcobry"
+  358  git config --global user.email wilcobry@gmail.com
+  359  git config -- global init.defaultBranch main
+  360  git config --global init.defaultBranch main
+  361  git config --global user.name "Brylee Wilcox"
+  362  git config --global user.email wilcobry@gmail.com
+  363  git config --global init.defaultBranch main
+  364  find / -type d -name ".git" 2>/dev/null
+  368  git clone https://github.com/nsandholtz/xc_research.git
+  369  git status
+  371  git config --list
+  376  git status
+  379  git status
+  381  rm -fr .git
+  382  git status
+  386  mkdir git-practice-wilcobry
+  387  cd git-practice-wilcobry
+  388  git init
+  389  git status
+  394  git status
+  396  git status
+  397  cd git-practice-esnt
+  398  cd git-practice-wilcobry
+  401  cd git-practice-wilcobry
+  403  git status
+  404  git add file1.txt
+  405  git status
+  406  git commit -m 'Add file1.txt'
+  407  git status
+  408  git log --oneline
+  409  .DS_Store.gitignore
+  410  touch .gitignore
+  413  git remote -v
+  414  git remote add origin https://github.com/wilcobry/git-practice-wilcobry.git
+  415  git remote -v
+  416  git push -u origin main
+  418  git status
+  419  git commit -m 'add file_2.txt'
+  420  git commit file_2.txt  -m 'add file_2.txt'
+  421  git add file_2.txt
+  422  git commit -m 'add file_2.txt'
+  423  git status
+  424  git log
+  425  git add file_1.txt
+  426  git add file1.txt
+  427  git status
+  429  git commit -m 'added a line to file1.txt'
+  430  git add file_2.txt
+  431  git commit -m 'added text to file_2.txt'
+  432  git log
+  434  git add Readme.md
+  435  git commit -m 'create readme file'
+  436  git status
+  437  git branch
+  438  git branch features
+  439  git switch features
+  440  git log
+  442  git add new_features
+  443  git commit -m 'add empty file'
+  444  git add new_features.txt
+  445  git commit -m 'add empty file'
+  446  git add new_features.txt
+  447  git commit -m 'add text to features.txt'
+  448  git switch main
+  449  git log
+  451  git add file1.txt
+  452  git commit -m 'add line to file1.txt'
+  453  git merge features
+  454  git log
+  457  git-practice-wilcobry
+  458  cd git-practice-wilcobry
+  459  git branch
+  460  git add new_features.txt
+  461  git commit 'adding new text to new_features.txt'
+  462  git commit -m 'adding new text to new_features.txt'
+  463  git switch features
+  464  git add new_features.txt
+  465  git commit -m 'changing text for new_features.txt'
+  466  git switch main
+  467  git merge features
+  468  git add new_features.txt
+  469  git commit m- 'resolved merge conflict'
+  470  git merge features
+  471  git add new_features.txt
+  472  git commit -m 'fixed merge conflict in new_features.txt'
+  473  git branch -d features
+  474  git push -u origin main
+  475  git log
+  478  cd git-practice-wilcobry
+  479  git status
+  480  git clone https://github.com/wilcobry/lab1-practice-skolten27.git
+  486  git status
+  487  git branch feature-wilcobry
+  488  git status
+  489  git switch feature-wilcobry
+  491  git add file3_new.txt
+  492  git commit -m 'added file file3_new.txt'
+  493  git push origin feature-wilcobry
+  494  git pull
+  499  cd git-practice-wilcobry
+  500  git pull
+  501  git log --online > gitlog.txt
+  502  git log --oneline > gitlog.txt
